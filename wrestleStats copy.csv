@@ -1,0 +1,49 @@
+﻿Tournament,Event_Date,Team_Name,Weight_Class,Player_Name,Opponent_Name,Match_ID,Period,Clock,Position,Player_Move,Type,Opponent Move,Side,Player_Success,Opponent_Success,Player_Points,Opponent_Points,Point Type,Player_Total,Opponent_Total,Win_Loss
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,1,1,2:40,Neutral,High Crotch,Initial,High Crotch Defense,Right,0,1,0,0,None,0,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,1,1,2:33,Neutral,High Crotch Defense,Initial,High Crotch Defense,RIght,1,0,0,0,None,0,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,1,1,2:09,Neutral,Low Single Defense,Initial,Low Single,Right,1,0,0,0,None,0,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,1,1,2:00,Neutral,Single Leg,Reattack,Single Leg Defense,Left,1,0,2,0,Takedown,2,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,1,1,1:35,Neutral,Single Leg,Initial,Single Leg Defense,Left,1,0,0,0,None,0,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,1,1,1:22,Neutral,Double Leg Defense,Initial,Doube Leg Defense,Center,1,0,0,0,None,0,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,1,1,1:20,Neutral,Pancake,Reattack,Pancake Defense,Center,1,0,10,0,Pin,12,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,2,1,2:40,Neutral,Knee Pick,Initial,Knee Pick Defense,Right,0,1,0,0,None,0,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,2,1,2:10,Neutral,Front Head Snap,Initial,Front Head Snap Defense,Center,1,0,2,0,Takedown,2,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,2,1,2:05,Partare,Leg Lace,Initial,Leg Lace Defense,Left,0,1,0,0,None,2,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,2,1,1:39,Neutral,Single Leg Defense,Initial,Single Leg,Right,0,1,0,0,None,2,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,2,1,1:18,Neutral,Low Single Defense,Initial,Low Single,Right,1,0,0,0,None,2,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,2,1,1:16,Neutral,Single Leg,Reattack,Single Leg Defense,Left,0,1,0,0,None,2,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,2,1,1:13,Neutral,Single Leg Defense,Reattack,Single Leg,Right,1,0,0,0,None,2,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,2,1,0:47,Neutral,High Crotch,Initial,High Crotch Defense,Right,1,0,2,0,Takedown,4,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,2,2,2:47,Neutral,Single Leg Defense,Initial,Single Leg,Left,1,0,0,0,None,4,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,2,2,2:11,Neutral,Low Single Defense,Initial,Low Single,Right,1,0,0,0,None,4,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,2,2,1:53,Neutral,High Crotch Defense,Initial,High Crotch,Right,1,0,0,0,None,4,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,2,2,1:16,Neutral,Under Hook,Initial,Under Hook Defense,Left,1,0,1,0,Step Out,5,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,2,2,1:06,Neutral,Low Single Defense,Initial,Low Single,Right,1,0,0,0,None,5,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,2,2,0:33,Neutral,High Crotch Defense,Initial,High Crotch,Right,1,0,0,0,None,5,0,1
+Final X,6/10/23,Sunkist,53,Dominique Parrish,Katie Gomez,2,2,0:17,Neutral,High Crotch Defense,Initial,High Crotch,Right,1,0,0,0,None,5,0,1
+Panams,5/5/23,Brazil,53,Dominique Parrish,Sabrina Gama,3,1,5:39,Neutral,Shuck By,Initial,Shuck By Defense,Right,1,0,2,0,Takedown,2,0,1
+Panams,5/5/23,Brazil,53,Dominique Parrish,Sabrina Gama,3,1,5:20,Partare,Gut Wrench,Initial,Gut Wreanch Defense,Left,0,0,0,0,None,2,0,1
+Panams,5/5/23,Brazil,53,Dominique Parrish,Sabrina Gama,3,1,4:39,Neutral,Single Leg,Initial,Single Leg Defense,Left,0,0,0,0,None,2,0,1
+Panams,5/5/23,Brazil,53,Dominique Parrish,Sabrina Gama,3,1,4:02,Neutral,Outside Single,Initial,Outside Single Defense ,Left,1,0,2,0,Takedown,4,0,1
+Panams,5/5/23,Brazil,53,Dominique Parrish,Sabrina Gama,3,1,3:36,Neutral,Arm Drag,Initial,Arm Drag Defense,Left,0,0,0,0,None,4,0,1
+Panams,5/5/23,Brazil,53,Dominique Parrish,Sabrina Gama,3,1,3:34,Neutral,Pancake,Reattack,Pancake Defense,Center,1,0,4,0,Feet to back,8,0,1
+Panams,5/5/23,Brazil,53,Dominique Parrish,Sabrina Gama,3,1,3:27,Neutral,Single Leg Defense,Initial,Single Leg,Left,1,0,0,0,None,8,0,1
+Panams,5/5/23,Brazil,53,Dominique Parrish,Sabrina Gama,3,1,3:08,Neutral,High Crotch,Initial,High Crotch Defense,Right,1,0,2,0,Takedown,10,0,1
+Panams,5/5/23,Venezuela,53,Dominique Parrish,Betzabeth Aguello,4,1,5:45,Neutral,Front Head Snap,Initial,Front Head Snap Defense,Center,0,0,0,0,None,0,0,0
+Panams,5/5/23,Venezuela,53,Dominique Parrish,Betzabeth Aguello,4,1,5:25,Neutral,High Crotch,Initial,High Crotch Defense,Right,1,0,4,0,Feet to back,4,0,0
+Panams,5/5/23,Venezuela,53,Dominique Parrish,Betzabeth Aguello,4,1,5:12,Challenge,Challenge Defense,Challenge,Challenge,Challenge,1,0,1,0,Challenge,5,0,0
+Panams,5/5/23,Venezuela,53,Dominique Parrish,Betzabeth Aguello,4,1,4:14,Neutral,Single Leg,Initial,Single Leg Defense,Right,0,1,0,0,None,5,0,0
+Panams,5/5/23,Venezuela,53,Dominique Parrish,Betzabeth Aguello,4,1,4:14,Neutral,Headlock Defense,Reattack,Headlock,Left,0,1,2,0,Takedown,5,2,0
+Panams,5/5/23,Venezuela,53,Dominique Parrish,Betzabeth Aguello,4,1,4:04,Partare,Half Nelson Defense,Initial,Half Nelson,Left,0,0,0,0,None,5,2,0
+Panams,5/5/23,Venezuela,53,Dominique Parrish,Betzabeth Aguello,4,1,3:43,Neutral,Single Leg,Initial,Single Leg Defense,Right,1,0,1,0,Step Out,6,2,0
+Panams,5/5/23,Venezuela,53,Dominique Parrish,Betzabeth Aguello,4,2,2:48,Neutral,Single Leg Defense,Initial,Single Leg,Right,0,1,0,2,Takedown,6,4,0
+Panams,5/5/23,Venezuela,53,Dominique Parrish,Betzabeth Aguello,4,2,1:12,Neutral,Double Leg Defense,Initial,Double Leg,Center,1,0,0,0,None,6,4,0
+Panams,5/5/23,Venezuela,53,Dominique Parrish,Betzabeth Aguello,4,2,1:11,Neutral,Pancake,Reattack,Pancake Defense,Center,0,1,0,0,None,6,4,0
+Panams,5/5/23,Venezuela,53,Dominique Parrish,Betzabeth Aguello,4,2,1:08,Neutral,Bodylock Defense,Reattack,Bodylock,Left,0,1,0,4,Feet to back,6,8,0
+Panams,5/5/23,Venezuela,53,Dominique Parrish,Betzabeth Aguello,4,2,0:41,Neutral,High Crotch,Initial,High Crotch Defense,Right,0,1,0,0,None,6,8,0
+Panams,5/5/23,Venezuela,53,Dominique Parrish,Betzabeth Aguello,4,2,0:40,Neutral,Single Leg,Reattack,Single Leg Defense,Right,0,1,0,0,None,6,8,0
+Panams,5/5/23,Venezuela,53,Dominique Parrish,Betzabeth Aguello,4,2,0:38,Neutral,Shuck By,Reattack,Shuck By Defense,Right,0,1,0,0,None,6,8,0
+Panams,5/5/23,Venezuela,53,Dominique Parrish,Betzabeth Aguello,4,2,0:26,Neutral,Arm Spin,Initial,Arm Spin Defense,Right,0,1,0,0,None,6,8,0
+Panams,5/5/23,Venezuela,53,Dominique Parrish,Betzabeth Aguello,4,2,0:12,Neutral,Single Leg,Initial,Single Leg Defense,Right,0,1,0,0,None,6,8,0
+Panams,5/5/23,Venezuela,53,Dominique Parrish,Betzabeth Aguello,4,2,0:07,Neutral,Single Leg,Initial,Single Leg Defense,Right,0,1,0,0,None,6,8,0
+Panams,5/5/23,Venezuela,53,Dominique Parrish,Betzabeth Aguello,4,2,0:01,Neutral,Single Leg,Initial,Single Leg Defense,Right,0,1,0,0,None,6,8,0
